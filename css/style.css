@@ -1,0 +1,46 @@
+.navbar{
+
+	margin: auto;
+	padding: auto;
+}
+
+ .carousel-inner img {
+    -webkit-filter: grayscale(90%);
+    filter: grayscale(90%); /* make all photos black and white */ 
+    width: 100%; /* Set width to 100% */
+    height: auto;
+    margin: auto;}
+
+     body {
+    font: 400 15px/1.8 Lato, sans-serif;
+    color: #777;
+  }
+
+ .container {
+
+    background-color: white;
+
+    padding: 40px 20px;
+
+    font-size: 20px;
+
+}
+
+
+#about h1{
+
+   font-size: 20px;
+
+	padding-top: 20px;
+	color: black;
+	 margin: 10px 0 30px 0;
+}
+
+#end footer{
+
+background-color: black;
+color: white;
+padding-top: 20px;
+padding-bottom: 20px;
+
+}
